@@ -1,0 +1,22 @@
+{
+  "name": "node-sql-mysql-jwt-authentication-rest-api",
+  "version": "1.0.0",
+  "description": "Node.js + SQL + MySQL RestAPI for User Management, Registration, Route Protection and JWT Authentication",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Rest",
+    "Api"
+  ],
+  "author": "shahinzaman102@gmail.com",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^5.0.1",
+    "express": "^4.17.1",
+    "jsonwebtoken": "^8.5.1",
+    "mysql": "^2.18.1",
+    "nodemon": "^2.0.12"
+  }
+}
