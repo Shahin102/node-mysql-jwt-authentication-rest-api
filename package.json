@@ -1,7 +1,7 @@
 {
-  "name": "node-sql-mysql-jwt-authentication-rest-api",
+  "name": "node-mysql-jwt-authentication-rest-api",
   "version": "1.0.0",
-  "description": "Node.js + SQL + MySQL RestAPI for User Management, Registration, Route Protection and JWT Authentication",
+  "description": "Node.js + MySQL RestAPI for User Management, Registration, Route Protection and JWT Authentication",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
