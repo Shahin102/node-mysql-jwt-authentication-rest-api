@@ -1,4 +1,4 @@
-# node-sql-mysql-jwt-authentication-rest-api
+# node-mysql-jwt-authentication-rest-api
 *Node.js + SQL + MySQL RestAPI for User Management, Registration, Route Protection, JWT Authentication and CRUD Operation*
 
 For documentation and instructions see
